@@ -66,7 +66,7 @@ except ImportError:
 
 # Will be parsed by setup.py to determine package metadata
 __author__ = 'jeonsworld <jeonsworld@gmail.com>'
-__version__ = '1.33+chat0'
+__version__ = '1.33+chat0.2.4'
 __website__ = 'https://github.com/jeonsworld/python-json-patch-chat'
 __license__ = 'Modified BSD License'
 
