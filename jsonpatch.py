@@ -65,9 +65,9 @@ except ImportError:
     str = unicode
 
 # Will be parsed by setup.py to determine package metadata
-__author__ = 'Stefan Kögl <stefan@skoegl.net>'
-__version__ = '1.33'
-__website__ = 'https://github.com/stefankoegl/python-json-patch'
+__author__ = 'jeonsworld <jeonsworld@gmail.com>'
+__version__ = '1.33+chat0'
+__website__ = 'https://github.com/jeonsworld/python-json-patch-chat'
 __license__ = 'Modified BSD License'
 
 # pylint: disable=E0611,W0404
